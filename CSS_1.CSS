@@ -1,0 +1,19 @@
+h1,h2{
+    font-family: Arial, serif;
+    text-align: center;
+}
+#para1{
+    font-size: large;
+    font-family: Bahnschrift;
+    text-align: left;
+}
+p.time{
+    background-color: chocolate;
+    color: lightblue;
+    font-size: large;
+}
+.article{
+    background-color: whitesmoke;
+    font-family: Arial, serif;
+    color: aqua;
+}
